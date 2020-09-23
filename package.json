@@ -18,7 +18,7 @@
   ],
   "main": "lib/index.js",
   "dependencies": {
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "json-lint": "^0.1.0",
     "jsontableschema": "^0.2.2",
     "lodash": "^4.13.1",
